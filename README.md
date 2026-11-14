@@ -4,6 +4,8 @@ A minimalist local emoji search powered by **TypeSafe Jev through OpenRouter**. 
 
 ![Matching emoji rise from the pile and fall back when text is cleared](docs/demo.gif)
 
+Want to recreate it with a coding assistant? Copy the [one-shot natural-language prompt](PROMPT.md). Clone this repository to get this exact implementation.
+
 ## Run it
 
 Requires [Node.js](https://nodejs.org/) 22.15 or newer (Node.js 24 is used in CI). Works locally on macOS, Windows, and Linux with a modern browser. Each person supplies their own OpenRouter key; no API key is included in this repository.
